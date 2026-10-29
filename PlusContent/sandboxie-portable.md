@@ -1,4 +1,0 @@
-# Sandboxie-Portable
-
-TODO
-
